@@ -1,0 +1,78 @@
+Dosya
+Harita
+Kullanıcı
+Kontrol
+Dil
+Görünüm
+Yardım
+Eğitim
+Kapat
+Aselsan
+MİRSAD
+Algılayıcı Ara...
+IHA 10
+Serce
+Serce Kamera
+Seda 11
+Seda-1
+Seda-2
+Seda-3
+Seda-4
+Flir_Ekinoks
+Flir_Ekinoks_Kamera
+KARAKOL 13
+Kamera 2
+Radar 1
+Yamgöz 12
+PIR kapı
+Midas
+Çevrimdışı (49)
+MAYINLAR 14
+Mayın 8
+Flir_Ekinoks_Kamera
+Elle kazı
+Yamgöz 012
+UYARI: Silecek takıldı!
+Midas 34 (Kanal 12)
+İzinsiz Tırmanış
+Manuel Tespit 1
+İnsan
+Yamgöz 012
+Şüpheli Araç (TR)06CDR212
+Midas 34 (Kanal 12)
+Tanımlanamayan Uyarı
+CCTV 12
+Makina İle kazı
+Midas 34 (Kanal 12)
+İşlem Yap
+132
+Alarm Geçmişi
+Liste Görünümü
+Çizelge Görünümü
+Dosyalar
+Tespit Numarası
+Tanım
+Tanım
+Tespit Zamanı
+Aramayı Kaydet
+Enlem
+Boylam
+Noktaya Git
+Tespit Tipi
+M/O Tespiti
+Tespit Tipi
+M/O Tipi
+Hepsi
+Hepsi
+Hepsi
+Teşhis Açıklaması
+Tespit Kaynak ...
+Tespit Kaynak Noktaya
+Tespit Süresi
+Tespit Süresi
+Tespit Koordinatı
+Bölge
+Öncelik
+Harita
+Video
+Alarm Yönetimi

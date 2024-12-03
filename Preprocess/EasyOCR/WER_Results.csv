@@ -1,0 +1,18 @@
+File Name,WER
+OCR_adaptive_gaussian,1.0
+OCR_adaptive_mean,1.1578947368421053
+OCR_binary_threshold_60,1.0
+OCR_binary_threshold_70,1.105263157894737
+OCR_binary_threshold_80,1.3333333333333333
+OCR_binary_threshold_90,1.263157894736842
+OCR_easyocr_output,2.473684210526316
+OCR_local_threshold,1.0701754385964912
+OCR_masked_image,2.7017543859649122
+OCR_masked_image_V0,1.0
+OCR_masked_image_V1,1.456140350877193
+OCR_masked_image_V2,1.0
+OCR_noise_removed_70,1.105263157894737
+OCR_noise_removed_80,1.3333333333333333
+OCR_noise_removed_90,1.263157894736842
+OCR_Original,3.6842105263157894
+OCR_original_gray,1.4210526315789473
