@@ -1,0 +1,47 @@
+Aselsan
+Kardelen
+Dosya  
+Haberleşme  
+Harita  
+Konfigürasyon  
+Görüntü Yönetimi  
+Görev Planı  
+Kullanıcı  
+Kontrol  
+Dil  
+Görünüm  
+Yardım  
+Kapat  
+Sistemdekiler Algılayıcılar  
+Yerleşim 
+KALYON  
+O. Alan
+KALYON  
+T. Modu
+Day Mode  
+Ara
+Çevrim İçi  
+Çevrim Dışı  
+Tüm Algılayı 
+Otomatik Seçilme
+Algılayıcı Bilgileri
+GPS  
+Hassasiyet  
+Algılayıcı Tipi  
+Kısa Tanım  
+Enlem  
+Boylam  
+Menzil  
+Unite No
+00
+Alg. No
+25  
+Yükseklik
+0  
+Tüm Algılayıcı Tespitleri  
+Tanım
+006-02...  
+Tespit
+İhlal
+Olağan
+Tüm Algılayıcı Tespilerini Listele  
